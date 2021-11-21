@@ -1,0 +1,20 @@
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+    height: 14vh;
+    padding: 1rem;
+    background-color: #383838;
+}
+
+.tituloFooter{
+    color: #fff;
+}
+
+.Footer1{
+    color: #fff;
+}
+.Footer2:hover{
+    box-shadow:0 0 30px rgb(78, 166, 218);;
+    transition: 0.5s;
+}
